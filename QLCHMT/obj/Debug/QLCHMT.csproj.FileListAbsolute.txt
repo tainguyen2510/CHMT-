@@ -1,0 +1,13 @@
+C:\NAT\windows\BTL\QLCHMT\QLCHMT\QLCHMT\obj\Debug\QLCHMT.csproj.AssemblyReference.cache
+C:\NAT\windows\BTL\QLCHMT\QLCHMT\QLCHMT\obj\Debug\QLCHMT.csproj.SuggestedBindingRedirects.cache
+C:\NAT\windows\BTL\QLCHMT\QLCHMT\QLCHMT\obj\Debug\QLCHMT.Form1.resources
+C:\NAT\windows\BTL\QLCHMT\QLCHMT\QLCHMT\obj\Debug\QLCHMT.Properties.Resources.resources
+C:\NAT\windows\BTL\QLCHMT\QLCHMT\QLCHMT\obj\Debug\QLCHMT.csproj.GenerateResource.cache
+C:\NAT\windows\BTL\QLCHMT\QLCHMT\QLCHMT\obj\Debug\QLCHMT.csproj.CoreCompileInputs.cache
+C:\NAT\windows\BTL\QLCHMT\QLCHMT\QLCHMT\bin\Debug\QLCHMT.exe.config
+C:\NAT\windows\BTL\QLCHMT\QLCHMT\QLCHMT\bin\Debug\QLCHMT.exe
+C:\NAT\windows\BTL\QLCHMT\QLCHMT\QLCHMT\bin\Debug\QLCHMT.pdb
+C:\NAT\windows\BTL\QLCHMT\QLCHMT\QLCHMT\obj\Debug\QLCHMT.exe
+C:\NAT\windows\BTL\QLCHMT\QLCHMT\QLCHMT\obj\Debug\QLCHMT.pdb
+C:\Users\DELL\Downloads\QLCHMT\QLCHMT\obj\Debug\QLCHMT.exe
+C:\Users\DELL\Downloads\QLCHMT\QLCHMT\obj\Debug\QLCHMT.pdb
